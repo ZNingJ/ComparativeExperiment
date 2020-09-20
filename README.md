@@ -3,8 +3,8 @@
 # Outlier Detection with Autoencoder Ensembles
 
 # Introduction
-folders "RAD" include __RAD__ Model
-folders "RN-IF-SF" include __IF__ , __SF__ AND __Randnet__ Model
+*folders "RAD" include __RAD__ Model
+*folders "RN-IF-SF" include __IF__ , __SF__ AND __Randnet__ Model
 
 # Requirements
 * Python 3.5

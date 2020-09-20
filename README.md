@@ -14,15 +14,15 @@
 * Scikit-learn
 
 # Dataset
-1-ionosphere,
-2-Musk2,
-3-ISOLET,
-4-MF-3,
-5-Arrhythmia,
-6-MF-5,
-7-MF-7
+* 1-ionosphere,
+* 2-Musk2,
+* 3-ISOLET,
+* 4-MF-3,
+* 5-Arrhythmia,
+* 6-MF-5,
+* 7-MF-7
 
 # Model
-We propose two model __IF__ , __SF__,__RAD__ AND __Randnet__,
+We propose two model __IF__ ,  __SF__, __RAD__  AND  __Randnet__,
 
 

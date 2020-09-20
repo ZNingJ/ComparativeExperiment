@@ -10,8 +10,8 @@
 * Python 3.5
 * Numpy
 * Pandas
-* TensorFlow
-* Scikit-learn
+* TensorFlow 1.4.0
+* Scikit-learn 0.19
 
 # Dataset
 * 1-ionosphere,
